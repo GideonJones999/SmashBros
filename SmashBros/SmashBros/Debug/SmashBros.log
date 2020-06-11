@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\jonesgid000\documents\visual studio 2017\projects\smashbros\smashbros\source.cpp(17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SmashBros.vcxproj -> c:\users\jonesgid000\documents\visual studio 2017\Projects\SmashBros\Debug\SmashBros.exe
+  SmashBros.vcxproj -> c:\users\jonesgid000\documents\visual studio 2017\Projects\SmashBros\Debug\SmashBros.pdb (Partial PDB)
